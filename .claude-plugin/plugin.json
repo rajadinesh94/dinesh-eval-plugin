@@ -1,0 +1,15 @@
+{
+  "name": "dinesh-eval",
+  "version": "0.2.0",
+  "description": "Dinesh Eval: nine attributed product-evaluation workflows adapted from ai-evals-course/evals-skills.",
+  "author": {
+    "name": "Dinesh"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "evals",
+    "evaluation",
+    "error-analysis"
+  ],
+  "repository": "https://github.com/rajadinesh94/dinesh-eval-plugin"
+}

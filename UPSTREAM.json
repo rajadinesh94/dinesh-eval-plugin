@@ -1,0 +1,28 @@
+{
+  "repository": "https://github.com/ai-evals-course/evals-skills",
+  "commit": "80d5f7b0127c7572ed9e9339937adbfd7240ffeb",
+  "license": "Apache-2.0",
+  "archive_sha256": "55cf2aa0856ba162ba06377b0db88f7bae87435ecec0497620ccf6c7c9b0717c",
+  "files": {
+    "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "skills/build-review-interface/SKILL.md": "8cd4f794f590619a220162e366faf6bd35cb620050db324b69a7af0d36f52c4b",
+    "skills/build-review-interface/agents/openai.yaml": "cbe23b0397135bc1eac90f99e80b558afbcb4fe32fc09e5fb16ff6083bd52ba9",
+    "skills/error-discovery/SKILL.md": "e125c9b764b7aa658ea8c9104fb2856b67b40c0604e73d5bfe142e0dd5d10149",
+    "skills/error-discovery/agents/openai.yaml": "c81cd1d86a317fcefbf0cba9efa20a7bf993c66fbd6ca1f70e3d48ac5777fd56",
+    "skills/error-discovery/review-loop.md": "4c500d0fc6fbeba9bbd8d4858e7e14c848b8ea8cd2a6bdef5c854b668943286a",
+    "skills/eval-audit/SKILL.md": "9f4b23dfe06f4c42a28d4bb054d75b5da1bff39ea57e0450689a4f699604bc63",
+    "skills/eval-audit/agents/openai.yaml": "cfcb2a19fa1f5e655fe650c2e8f600d9dbff0d82ab7b8fcc3660f4a7c042406b",
+    "skills/evals-start/SKILL.md": "d035307708a8feded6eb52a03048146a34b506049a242f6fcc7eb3e2a4511097",
+    "skills/evals-start/agents/openai.yaml": "e4007d2872b5b9c7b905a462e303f19528cc561b41a9662cd0a5349e68afad7c",
+    "skills/evaluate-rag/SKILL.md": "e22a7bff31a73a9a82722c771326acf13121622a8caca6221fcbea111c9bf88d",
+    "skills/evaluate-rag/agents/openai.yaml": "ba53b0727a83dc2d0a5657e20ef4904d7cfbc18b4f072888020e2687d41b4376",
+    "skills/generate-synthetic-data/SKILL.md": "37b8e12ceb020f0fdf7c9c8bf7f3d3fce3dd506f1dfecdc64c25f80c10130da2",
+    "skills/generate-synthetic-data/agents/openai.yaml": "17f1a09186ff5c3adfc8233eedbd36a7ac3745cd4c13250efe0efce51a46be68",
+    "skills/validate-evaluator/SKILL.md": "dd601ca58d2165f51798e12934170a435af9a7938832b67bb00986b881752355",
+    "skills/validate-evaluator/agents/openai.yaml": "5e3e1b5b7c466f6982d25bea5814fd2fbda0eb1a01ee0a4bc9f41f380a617bbf",
+    "skills/write-code-eval/SKILL.md": "6acf7d26f1b64d2dd7792675e3afefa0fc7accd6e0efd73184c6dd356c64338b",
+    "skills/write-code-eval/agents/openai.yaml": "5e0a5fa940ad295c7693d712221e65c030b06a3e2044a52a772ec175ad61eb7e",
+    "skills/write-judge-prompt/SKILL.md": "b50dc2d668a9984df1b5e64c94ffecf0baaf186566759fdf5c0c60747961f860",
+    "skills/write-judge-prompt/agents/openai.yaml": "211afc8bcf8034c8c54b73099fad4331eaec1096dbaffd8898bd621924fcf4a2"
+  }
+}

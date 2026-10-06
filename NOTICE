@@ -1,0 +1,21 @@
+Dinesh Eval — Nine-Skill Edition
+
+Includes and modifies exactly nine skill workflows and the review-loop reference from:
+https://github.com/ai-evals-course/evals-skills
+Pinned commit: 80d5f7b0127c7572ed9e9339937adbfd7240ffeb
+Upstream version: 0.3.1
+Upstream authors: Shreya Shankar and Hamel Husain
+License: Apache License 2.0, reproduced in LICENSE.
+No upstream NOTICE file was present at the pinned revision.
+
+Adaptations dated 2026-10-06 add provider-neutral capability handling,
+privacy boundaries for trace review, optional delegation and polling,
+use-case-specific threshold guidance, and statistical clarification.
+Modified upstream Markdown carries prominent change notices.
+All upstream research/reference links and upstream attribution are retained.
+Original source hashes are recorded in UPSTREAM.json; they are not hashes of
+our modified files.
+
+Dinesh Eval branding does not imply original authorship of the nine workflows
+or endorsement by their authors, GitHub, OpenAI, or Anthropic.
+This edition excludes the separate Dinesh Eval offline CLI and review variants.

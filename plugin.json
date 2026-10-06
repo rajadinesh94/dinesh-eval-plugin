@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "dinesh-eval",
+  "version": "0.2.0",
+  "description": "Dinesh Eval: nine attributed product-evaluation workflows adapted from ai-evals-course/evals-skills.",
+  "author": {
+    "name": "Dinesh"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "evals",
+    "evaluation",
+    "error-analysis"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Dinesh Eval",
+        "shortDescription": "Nine workflows for trustworthy product evals.",
+        "developerName": "Dinesh",
+        "category": "Productivity",
+        "defaultPrompt": [
+          "Use evals-start to choose the right workflow for my AI product."
+        ]
+      }
+    }
+  },
+  "repository": "https://github.com/rajadinesh94/dinesh-eval-plugin"
+}
